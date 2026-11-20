@@ -43,6 +43,7 @@ ScaffoldingReadMe.txt
 ~$*
 *~
 CodeCoverage/
+publish
 
 # MSBuild Binary and Structured Log
 *.binlog
@@ -55,3 +56,6 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Jetbrains
+.idea

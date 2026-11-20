@@ -1,0 +1,9 @@
+Generated with the built-in image_gen tool. The PNG is the original image;
+the ICO contains 16, 20, 24, 32, 40, 48, 64, 128 and 256 pixel frames.
+
+Use case: logo-brand
+Asset type: Windows executable application icon for Msg2EmlConverter, an email file converter supporting MSG and EML in both directions.
+Primary request: Create one polished, distinctive mail conversion icon: a crisp white envelope combined with two bold curved arrows pointing in opposite directions, conveying bidirectional conversion. Blue envelope body with a teal conversion arrow accent, restrained depth and clean modern desktop application styling.
+Composition: Single centered icon, square canvas, large simple silhouette filling about 85% of the canvas, generous enough edge padding for Windows icon use, readable at 16x16 and 32x32. No surrounding mockup.
+Background: genuinely transparent outside the icon, preserve alpha.
+Constraints: no text, no letters, no numbers, no watermark, no tiny details, no extra objects, no checkerboard background.

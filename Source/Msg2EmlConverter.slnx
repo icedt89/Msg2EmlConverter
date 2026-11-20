@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Msg2EmlConverter/Msg2EmlConverter.csproj" />
+  <Folder Name="/Solution Items/">
+    <File Path="global.json" />
+    <File Path="publish.cmd" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Msg2EmlConverter.Tests/Msg2EmlConverter.Tests.csproj" />
+</Solution>
